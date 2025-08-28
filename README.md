@@ -1,5 +1,5 @@
 # Smart-Start
-## Project Overview:
+## Project Overview
 
 ### Existing Issues
 The current onboarding process for new IBM employees is fragmented and time-consuming, leading to a suboptimal experience for new hires and increased workload for managers. New employees often struggle with setting up tools, requesting access to necessary resources, scheduling introductory meetings, and finding relevant project documentation. This inefficient process can delay their time to productivity and hinder team integration.
