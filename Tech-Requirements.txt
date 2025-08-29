@@ -1,0 +1,51 @@
+1. Backend Development
+
+Programming Languages: Python, Node.js, Java, Go, Ruby
+
+Frameworks: Django, Flask, FastAPI, Express.js, Spring Boot
+
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+
+API Tools: Postman, Swagger/OpenAPI
+
+Containerization & Deployment: Docker, Kubernetes, Nginx, Gunicorn, AWS/GCP/Azure
+
+Version Control: Git, GitHub/GitLab/Bitbucket
+
+Testing: PyTest, JUnit, Mocha, Postman Tests
+
+2. Frontend Development
+
+Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+
+Frameworks & Libraries: React.js, Angular, Vue.js, Next.js
+
+Styling Tools: Tailwind CSS, Bootstrap, Sass, Material UI
+
+Build Tools: Webpack, Vite, Babel
+
+Package Managers: npm, yarn, pnpm
+
+Version Control: Git, GitHub/GitLab/Bitbucket
+
+Testing: Jest, React Testing Library, Cypress
+
+3. NLP Development
+
+Programming Languages: Python
+
+Libraries & Frameworks:
+
+Core: NLTK, spaCy, Gensim
+
+Deep Learning: PyTorch, TensorFlow, Hugging Face Transformers
+
+Data Handling: Pandas, NumPy, Dask
+
+Model Serving: FastAPI, Flask, TorchServe, TensorFlow Serving
+
+Experiment Tracking: MLflow, Weights & Biases
+
+Notebooks & IDEs: Jupyter Notebook, VS Code, PyCharm
+
+Deployment Tools: Docker, Kubernetes, Streamlit/Gradio (for demos)
